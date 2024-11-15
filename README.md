@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/teixeira.gabb)
 
 ![Teixeira GitHub stats](https://github-readme-stats.vercel.app/api?username=devOlvr&show_icons=true&theme=dracula)
-[![Teixeira GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devOlvr&hide=html&layout=compact&theme=dracula)]
+![Teixeira GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devOlvr&hide=html&layout=compact&theme=dracula)
 
 ### Tecnologias que eu uso no meu dia
 
