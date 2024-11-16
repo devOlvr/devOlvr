@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Gabriel Teixeira - Sou Desenvolvedor Front-End 👋
+### Olá! Eu sou o Gabriel Teixeira - Desenvolvedor Front-End 👋
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/teixeira.gabb)
 
