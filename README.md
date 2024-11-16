@@ -22,5 +22,5 @@
 Apaixonado por aprender novas tecnologias, e mais apaixonado ainda por programação.
 
 ### Contato:
-dev.gabriel.teixeira@gmail.com  
-(11) 99108-9555
+✉️ dev.gabriel.teixeira@gmail.com  
+📞 (11) 99108-9555
