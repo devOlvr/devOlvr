@@ -29,7 +29,6 @@
 
 ![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devOlvr&show_icons=true&theme=radical&hide_border=true)
 ![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devOlvr&layout=compact&theme=radical&hide_border=true)
-![streak](https://streak-stats.demolab.com?user=devOlvr&theme=radical&hide_border=true)
 
 
 </div>
