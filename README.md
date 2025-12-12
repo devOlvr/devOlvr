@@ -1,26 +1,51 @@
 
-### Olá! Eu sou o Gabriel Teixeira - Desenvolvedor Full Stack 👋
+<img align="right" src="https://media.giphy.com/media/M9ghfYvCphJ3jvU17o/giphy.gif" width="200">
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/teixeira.gabb)
+# 🚀 Gabriel Teixeira — Full Stack Developer  
+### Criando experiências digitais modernas e poderosas ⚡
 
-![Teixeira GitHub stats](https://github-readme-stats.vercel.app/api?username=devOlvr&show_icons=true&theme=dracula)<br/>
-![Teixeira GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devOlvr&hide=html&layout=compact&theme=dracula)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/teixeira.gabb)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-### Tecnologias que eu uso no meu dia
+---
 
-<div style="display: inline-block"><br/>
-    <img aling="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling="center" alt="html" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-    <img aling="center" alt="html" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img aling="center" alt="html" src="https://img.shields.io/badge/TypeScript-235284?style=for-the-badge&logo=typescript&logoColor=white">
-    <img aling="center" alt="html" src="https://img.shields.io/badge/ReactJs-563D7C?style=for-the-badge&logo=react&logoColor=white">
-  <img aling="center" alt="html" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+## 🔥 Tecnologias favoritas
+
+<div style="display: inline_block"><br/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-235284?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
-<br/>
+---
 
-Apaixonado por aprender novas tecnologias, e mais apaixonado ainda por programação.
+## ⚡ Estatísticas do GitHub
 
-### Contato:
-📩 dev.gabriel.teixeira@gmail.com  
-📞 (11) 99358-2188
+<div align="center">
+
+![stats](https://github-readme-stats.vercel.app/api?username=devOlvr&show_icons=true&theme=radical&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devOlvr&layout=compact&theme=radical&hide_border=true)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=devOlvr&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## ⭐ Destaques
+
+✨ Desenvolvimento Front-End moderno  
+✨ APIs rápidas e escaláveis com Node.js  
+✨ UI/UX intuitiva e responsiva  
+✨ Código limpo, organizado e sustentável  
+
+---
+
+## 📬 Fale comigo
+
+📩 **Email:** dev.gabriel.teixeira@gmail.com  
+📞 **WhatsApp:** (11) 99358-2188
+
