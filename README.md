@@ -1,8 +1,7 @@
 
 <img align="right" src="https://media.giphy.com/media/M9ghfYvCphJ3jvU17o/giphy.gif" width="200">
 
-# 🚀 Gabriel Teixeira — Full Stack Developer  
-### Criando experiências digitais modernas e poderosas ⚡
+# 🚀 Gabriel Teixeira — Desenvolvedor Full Stack  
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/devteixeira)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielteixeiradev)
@@ -19,6 +18,13 @@
 <img src="https://img.shields.io/badge/TypeScript-235284?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 </div>
 
 ---
@@ -37,10 +43,10 @@
 
 ## ⭐ Destaques
 
-✨ Desenvolvimento Front-End moderno  
-✨ APIs rápidas e escaláveis com Node.js  
-✨ UI/UX intuitiva e responsiva  
-✨ Código limpo, organizado e sustentável  
+✨ DESENVOLVIMENTO BACK-END E FRONT-END 
+✨ APIs RÁPIDAS E ESCALAVEIS EM .NET E NODE.JS 
+✨ UI/UX INTUITIVA E RESPONSIVA  
+✨ CLEAN CODE  
 
 ---
 
