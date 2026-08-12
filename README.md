@@ -34,10 +34,10 @@
 ## 📊 Estatísticas
 
 <div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devOlvr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=devOlvr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devOlvr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devOlvr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" width="35%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devOlvr&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=devOlvr&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=devOlvr&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
 </div>
