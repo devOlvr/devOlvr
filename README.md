@@ -18,47 +18,6 @@
 
 <br/>
 
-## 🧠 Stack
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**Linguagens**
-
-C# ████████████████████░ 95%
-TypeScript █████████████████░░░░ 85%
-JavaScript ███████████████░░░░░░ 75%
-
-
-**Backend & APIs**
-
-.NET / ASP.NET Core ██████████████████░░ 90%
-Node.js / Express █████████████████░░░ 85%
-REST / Clean Arch. ████████████████░░░░ 80%
-
-
-</td>
-<td valign="top" width="50%">
-
-**Dados**
-
-SQL Server ████████████████░░░░ 80%
-PostgreSQL ███████████████░░░░░ 75%
-MongoDB █████████████░░░░░░░ 65%
-
-
-**Infra & Ferramentas**
-
-Docker ██████████████░░░░░░ 70%
-Git / GitHub Actions ████████████████░░░░ 80%
-CI/CD █████████████░░░░░░░ 65%
-
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
@@ -81,14 +40,6 @@ CI/CD █████████████░░░░░░░ 65%
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devOlvr&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=devOlvr&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
-</div>
-
-<br/>
-
-## 🐍 Atividade
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/devOlvr/devOlvr/output/github-contribution-grid-snake.svg" width="90%"/>
 </div>
 
 <br/>
