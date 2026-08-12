@@ -34,6 +34,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/devOlvr/devOlvr/main/generated/overview.svg" width="48%"/>
+<img src="https://raw.githubusercontent.com/devOlvr/devOlvr/main/generated/languages.svg" width="35%"/>
 
 <img src="https://streak-stats.demolab.com/?user=devOlvr&theme=tokyonight&hide_border=true&background=0D1117" width="60%"/>
 </div>
