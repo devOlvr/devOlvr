@@ -14,14 +14,35 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate stats images
-        uses: jstrieb/github-stats@master
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Clone github-stats generator
+        run: git clone https://github.com/jstrieb/github-stats.git stats-generator
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          username: devOlvr
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r stats-generator/requirements.txt
+
+      - name: Generate images
         env:
-          EXCLUDE_FORKED_REPOS: false
-          GENERATE_LANGUAGE_PIE_CHART: true
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_ACTOR: devOlvr
+          EXCLUDED: ""
+          EXCLUDED_LANGS: ""
+          EXCLUDE_FORKED_REPOS: "false"
+        run: |
+          cd stats-generator
+          python3 main.py
+
+      - name: Copy generated files
+        run: |
+          mkdir -p generated
+          cp stats-generator/generated/*.svg generated/
 
       - name: Commit generated files
         run: |
