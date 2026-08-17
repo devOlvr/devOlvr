@@ -1,13 +1,5 @@
 name: Generate GitHub Stats
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
 jobs:
   generate-stats:
     runs-on: ubuntu-latest
